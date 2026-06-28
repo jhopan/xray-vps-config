@@ -1,9 +1,13 @@
 # Xray VLESS VPS Config - Ultra Minimal & Optimized
 
+[![GitHub](https://img.shields.io/badge/GitHub-jhopan%2Fxray--vps--config-blue?logo=github)](https://github.com/jhopan/xray-vps-config)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 > **Status:** Production-ready ✅  
 > **Memory:** 30.7 MB (-23% dari baseline)  
 > **Ping:** Optimal untuk gaming & streaming  
-> **Last Updated:** 28 Juni 2026
+> **Last Updated:** 28 Juni 2026  
+> **Repository:** https://github.com/jhopan/xray-vps-config
 
 ---
 
